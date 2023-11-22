@@ -1,3 +1,6 @@
 # Da Hood Fake Macro
-Press Q to toggle, Press M to make it go faster, Press N to make it slow down.
+Press Q To Toggle Aimlock
+Press Z To Toggle The Macro
+Press M To Make The Macro Speed Up
+Press N To Make The Macro Slow Down.
 
